@@ -1,4 +1,4 @@
-# Proyecto de Análisis RFM con Frubana
+# Proyecto de Final Big Data Frubana
 
 ## Integrantes del Grupo
 - Jonnatan Triana
