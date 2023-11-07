@@ -19,12 +19,20 @@ Este archivo proporciona una descripción general del proyecto, los integrantes 
 ### 2. `preprocesamiento.py` (no funcional por temas de anonimizar clientes por reglas de negocio)
 Script en Python que contiene funciones y rutinas para el preprocesamiento y limpieza de los datos. Esto incluye la eliminación de valores atípicos, imputación de valores faltantes, y otras transformaciones necesarias para preparar los datos para el análisis posterior.
 
-
 ### 3. `eda.ipynb`
 Notebook de Jupyter que contiene el análisis exploratorio de datos (EDA) realizado sobre el dataset proporcionado. En él se realizan diversas visualizaciones, análisis de estadísticas descriptivas, y se identifican patrones y tendencias en los datos.
 
 ### 4. `rfm.ipynb`
 Notebook de Jupyter enfocado en el análisis RFM (Recency, Frequency, Monetary). En este archivo se calculan los scores RFM para cada cliente y se realiza una segmentación basada en estos scores para identificar diferentes grupos de clientes y entender su comportamiento.
+
+### 5. `predictor.ipynb`
+Notebook de Jupyter en el que se describen los modelos utilizados, así como los resultados obtenidos de los entrenamientos de los mismos.
+
+### 6. `Entrega_2_Documento.pdf`
+Archivo PDF donde se describe los aspectos del proyecto tales como: preparación de datos, estrategia metodológica, construcción de los modelos y conclusiones preliminares.
+
+### 7. `presentacion Frubana entrega 2.pptx`
+Resumen ejecutivo con los avances del segundo sprint.
 
 ## Metodología para Construir los Notebooks
 
