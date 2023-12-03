@@ -13,26 +13,17 @@ Fundada en 2018 con operación en tres países (Colombia, Brasil, México), Frub
 
 ## Archivos del Repositorio
 
-### 1. `README.md`
-Este archivo proporciona una descripción general del proyecto, los integrantes del grupo, una breve introducción sobre Frubana, y una descripción detallada de cada uno de los archivos en este repositorio.
+1) Carpeta de Informe: Carpeta que contiene las presentaciones ejecutivas del proyecto y los documentos formales.
+   La entrega 3 corresponde al archivo Informe/Proyecto Final Entrega 3.pdf
 
-### 2. `preprocesamiento.py` (no funcional por temas de anonimizar clientes por reglas de negocio)
-Script en Python que contiene funciones y rutinas para el preprocesamiento y limpieza de los datos. Esto incluye la eliminación de valores atípicos, imputación de valores faltantes, y otras transformaciones necesarias para preparar los datos para el análisis posterior.
+2) Carpeta de Notebooks: Carpeta que contiene los cuadernos con el código trabajado. Existe a saber:
+   -churn_statics.ipynb
+   -eda.ipynb
+   -predictor.ipynb
+   -preprocesamiento.ipynb
+   -rfm.ipynb
 
-### 3. `eda.ipynb`
-Notebook de Jupyter que contiene el análisis exploratorio de datos (EDA) realizado sobre el dataset proporcionado. En él se realizan diversas visualizaciones, análisis de estadísticas descriptivas, y se identifican patrones y tendencias en los datos.
-
-### 4. `rfm.ipynb`
-Notebook de Jupyter enfocado en el análisis RFM (Recency, Frequency, Monetary). En este archivo se calculan los scores RFM para cada cliente y se realiza una segmentación basada en estos scores para identificar diferentes grupos de clientes y entender su comportamiento.
-
-### 5. `predictor.ipynb`
-Notebook de Jupyter en el que se describen los modelos utilizados, así como los resultados obtenidos de los entrenamientos de los mismos.
-
-### 6. `Entrega_2_Documento.pdf`
-Archivo PDF donde se describe los aspectos del proyecto tales como: preparación de datos, estrategia metodológica, construcción de los modelos y conclusiones preliminares.
-
-### 7. `presentacion Frubana entrega 2.pptx`
-Resumen ejecutivo con los avances del segundo sprint.
+3) Carpeta de Data: Datos proporcionados por el negocio para satisfacer el abordaje del proyecto.
 
 ## Metodología para Construir los Notebooks
 
